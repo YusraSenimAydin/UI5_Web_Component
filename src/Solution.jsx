@@ -14,7 +14,7 @@ const tableData = [
   },
   {
     id: 3,
-    title: "<Week 3: Implement Infinite Scroll",
+    title: "Week 3: Implement Infinite Scroll",
     status: "Not Started",
   },
   {
