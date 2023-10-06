@@ -18,8 +18,8 @@ The goal was to build an app that uses all available web components and reacts o
 ## Installing
 1. Copy the Project
  ```bash
-git clone https://github.com/YusraSenimAydin/UI5_Web_Components_for_React.git
-cd UI5_Web_Components_for_React 
+git clone https://github.com/YusraSenimAydin/UI5_Web_Component.git
+cd UI5_Web_Component
 ```
 2.Install Dependencies
 ```bash
