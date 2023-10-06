@@ -7,7 +7,7 @@ function App() {
     <ThemeProvider>
       <ShellBar primaryTitle="UI5 Web Components for React Developer Challenge" />
       {/* Add your name and change title based on Week */}
-      <ColoredTitle title="Week 3 – Infinite Scroll" />
+      <ColoredTitle title="Week 4 – Adding New Rows" />
       <Solution />
     </ThemeProvider>
   );
